@@ -1,7 +1,7 @@
 <h1 align="center">Análise de Dados NFL Combine</h1>
 <p align="left">Esse notebook foi desenvolvido como atividade de um grupo de estudos. Nessa semana em específico, a ideia era estudar e aprimorar nossos conhecimentos em bibliotecas de visualização de dados. Além disso, também deveríamos buscar entender diferentes tipos de gráficos e suas aplicações. Para isso, foram utilizadas bases de dados contendo informações sobre o Combine da NFL.</p>
 
-### O que é o Combine?
+### O que é o Combine? 
 <p align="left">O Combine é um evento realizado todos os anos pela NFL (Liga de Futebol Americano dos Estados Unidos) para avaliar os atletas universitários através de testes físicos, medições do corpo e diversas entrevistas. Todo ano, centenas de atletas são convidados a participar para que os treinadores/olheiros/diretores da NFL possam ter mais informações sobre cada atleta para se prepararem para a noite do Draft (onde os jogadores universitários são escolhidos para times da NFL).</p>
 
 ### Base de Dados
